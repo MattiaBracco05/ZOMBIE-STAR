@@ -1,0 +1,67 @@
+/* FORM INPUT NAME */
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+.backgroundHome {
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/284/398/323/video-game-art-sega-minimalism-sega-genesis-hd-wallpaper-preview.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.marginHome {
+    margin-bottom: 70vh;
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.card {
+    height: 40vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.card-header h3 {
+    color: white;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border: 0 !important;
+}
+
+.buttonPlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titolo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vh;
+    font-family: monospace;
+    color: blue;
+}
+
+#nameScore {
+    text-align: center;
+    font-family: monospace;
+    font-size: 3vh;
+    color: white;
+}
+
+#level {
+    text-align: center;
+    font-family: monospace;
+    font-size: 3vh;
+    color: black;
+}
